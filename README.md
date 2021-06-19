@@ -21,4 +21,6 @@ mockup).
    
 
 ## PARTE II: Caso de estudio. Web YUZIN
+   Para la realización de este apartado, he decidido seguir las pautas de la práctica de evaluación, ya que permite aplicar los conocimientos adquiridos, y mencionados en la parte anterior, de una manera clara y ordenada, sin dejar ningún aspecto por contemplar. 
 
+![Método UX](DIU21/img/usability-testing.png) User Testing
