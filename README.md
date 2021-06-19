@@ -68,10 +68,24 @@ Tras la realización, el website ha obtenido una valoración de **MARGINAL**, se
    ---
    
    El objeto de este test de usabilidad es la página web Yuzin, desarrollado por Yuzin Club Cultural. Para descubrir el grado de usabilidad de dicha página, se ha realizado un test a los 2 usuarios seleccionados en el **apartado a** y se les ha pedido que realicen algunas actividades permitidas por la página, y sin
-ningún tipo de ayuda. Además, se les ha pasado un cuestionario el cual han rellenado en base a sus experiencias vividas en el proceso (el Cuestionario SUS del **apartado b**).
+ningún tipo de ayuda. Además, se les ha pasado un cuestionario el cual han rellenado en base a sus experiencias vividas en el proceso ([Cuestionario SUS](https://github.com/Jesus715/DIU21-TrabajoFinal/blob/main/Cuestionario_SUS.pdf), del **apartado b**).
 Este documento contiene las respuestas de dichos voluntarios, colocadas en forma de tabla para su mejor comprensión y análisis.
 Los problemas detectados en la página web son: mala navegabilidad, diseño pobre, y ligera inconsistencia.
 
    **c.3 Evaluación de tareas /escenarios**
    ---
+   Las tareas a realizar en la web son las siguientes :
    
+   * Tarea 1 - Buscar un servicio concreto
+   * Tarea 2 - Buscar una tarea concreta
+   * Tarea 3 - Realizar una reserva
+   * Tarea 4 - Reconocer dónde estoy
+   
+   
+   
+   | Participante | Tarea 1 | Tarea 2 | Tarea 3 | Tarea 4  
+   | ------------- | -------- | ----------- | ----------- | -----------  
+   | #USER1  | OK  | OK  | OK | -   
+   | #USER2  | OK  | OK  | - | -
+   | Success | 2 | 2 | 1 | 0
+   | Completion Rates | 100% | 100% | 50% | 0%
