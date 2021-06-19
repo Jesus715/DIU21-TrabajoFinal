@@ -1,13 +1,19 @@
 # DIU21 - Trabajo final : Resolución de un problema, caso y/o supuesto práctico
-Se va a hacer un análisis de un caso de estudio, para posteriormente establecer una propuesta de
-mejora basado en evidencias (*insights*) con una propuesta de diseño del interfaz (al menos de un
+Voy a hacer un comentario a modo de conclusión de los conocimientos que he adquirido con esta asignatura, para posteriormente realizar un análisis de un caso de estudio, y seguidamente establecer una propuesta de
+mejora basado en evidencias (*insights*) con una propuesta de diseño del interfaz (de al menos de un
 mockup).
 
 
 ## PARTE I: MI EXPERIENCIA UX
-    Para describir mi experiencia en estos campos, primero tenemos que entender que **UX (User eXperience)** es un proceso por el que inducimos al usuario de nuestro producto a *generar emociones positivas* sobre él. Para este fin utilizamos la **IU (UI, User Interface)**, diseñándola del tal forma que nuestro producto sea atractivo y visual para el usuario. Con estos dos conceptos podemos medir cuál será la **Usabilidad**, es decir, cómo de usable es nuestro producto para los diferentes usuarios en función de sus objetivos específicos. 
 
-    Una vez teniendo claros los conceptos, las conclusiones que he obtenido sobre esto, y basándome en los resultados de los diferentes ejercicios propuestos en clase a lo largo del cuatrimestre han sido:
+   Para describir mi experiencia en estos campos, primero tenemos que entender que **UX (User eXperience)** es un proceso por el que inducimos al usuario de nuestro producto a *generar emociones positivas* sobre él. Para este fin utilizamos la **IU (UI, User Interface)**, diseñándola del tal forma que nuestro producto sea atractivo y visual para el usuario. Con estos dos conceptos podemos medir cuál será la **Usabilidad**, es decir, cómo de usable es nuestro producto para los diferentes usuarios en función de sus objetivos específicos. 
+
+   Una vez teniendo claros los conceptos, las conclusiones que he obtenido sobre esto, y basándome en los resultados de los diferentes ejercicios propuestos en clase a lo largo del cuatrimestre han sido:
     
-    * 
-
+   * **Actividad 1. Etnografía :**
+    Lo que saco en claro de esta actividad es que es muy necesario pararse, abstraerse de nuestros pensamientos y opiniones subjetivas, y disponernos a observar al usuario, lo que le acontece, su contexto, cualquier detalle que nos pueda ayudar a solucionar un problema cotidiano, y además, tener en cuenta aquello que no observamos, pero que se intuye, para poder realizar posteriormente un diseño más objetivo en función de los requerimientos del usuario a quien va dirigida nuestra aplicación o servicio. Gracias a esta actividad teórica, pudimos desarrollar unos personajes para las prácticas, poniéndonos en su lugar y obteniendo así nuevos puntos de vista de cara al desarrollo del diseño de nuestra aplicación, que de no haberlo hecho no hubiésemos contemplado esas casuísticas.
+    
+   * **Actividad 2. Usabilidad :**
+    A través de este ejercicio, he entendido que son igual de importantes las partes de *Heurística*, la cuál trata de examinar la calidad de uso de la interfaz siguiendo una serie de pautas que van desde aspectos más genéricos como una buena visibilidad, diseño claro y estético, que use distintos idiomas, buena navegabilidad, situación del usuario en cada momento (con *breadcrumbs*), etcétera. Para esto podemos usar diferentes técnicas como *entrevistas, card sorting, diagramas de afinidad, checklist.* Esta última fue la que usamos y, personalmente, si se hace una buena selección de los elementos a checkear, es una técnica bastante fiable para dar una valoración de la usabilidad de una aplicación.
+    
+   * **Actividad 3. Accesibilidad :**
