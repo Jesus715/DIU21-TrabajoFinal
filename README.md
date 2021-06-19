@@ -23,4 +23,20 @@ mockup).
 ## PARTE II: Caso de estudio. Web YUZIN
    Para la realización de este apartado, he decidido seguir las pautas de la práctica de evaluación, ya que permite aplicar los conocimientos adquiridos, y mencionados en la parte anterior, de una manera clara y ordenada, sin dejar ningún aspecto por contemplar. 
 
-1. **Role Play**
+**1. Role Play**
+   He usado esta técnica para la selección de necesidades de 2 usuarios, obteniendo la siguiente tabla :
+   | Tiradas/Dados | Tipos     | Actividad   |  Emociones   
+| ------------- | -------- | ----------- | ----
+| 1ª  |  2 | 4  | 5   
+| 2ª  |  3 | 6  | 2
+
+- De la primera tirada, voy a suponer que fuese mi tío Jesús quien se va a disponer a organizar una actividad cultural con la familia y se siente disgustado en el momento en el que se sienta, por un mal día en el trabajo.
+- De la segunda, supongo que son mis amigos quienes van a organizar una ruta turística por la ciudad, pero tienen miedo a que no nos guste. 
+
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma 
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- 
+| #USER1  | H / 50   | Administrativo  | Media       | Divertido | Web        
+| #USER2  | M / 33   | Policía  | Ninguna       | Extrovertido       | Web   
+
+
+**2. Cuestionario SUS**
