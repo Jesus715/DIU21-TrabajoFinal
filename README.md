@@ -4,7 +4,7 @@ mejora basado en evidencias (*insights*) con una propuesta de diseño del interf
 mockup).
 
 
-## PARTE I: MI EXPERIENCIA UX
+## PARTE I : MI EXPERIENCIA UX
 
    Para describir mi experiencia en estos campos, primero tenemos que entender que **UX (User eXperience)** es un proceso por el que inducimos al usuario de nuestro producto a *generar emociones positivas* sobre él. Para este fin utilizamos la **IU (UI, User Interface)**, diseñándola del tal forma que nuestro producto sea atractivo y visual para el usuario. Con estos dos conceptos podemos medir cuál será la **Usabilidad**, es decir, cómo de usable es nuestro producto para los diferentes usuarios en función de sus objetivos específicos. 
 
@@ -20,7 +20,7 @@ mockup).
    Tras la realización de esta actividad, me he dado cuenta de la importancia que tiene hacer una aplicación accesible, para ampliar el abanico de usuarios de nuestra aplicación. Y no sólo para problemas físicos o mentales de los propios usuarios, sino también de los dispositivos desde los que acceden a ella, incluso contemplar posibles factores de la naturaleza como pudiese ser el reflejo del sol o un brillo muy elevado del dispositivo. No se trata sólo de hacerla accesible, sino de explicarle al usuario cómo puede usar nuestra aplicación en caso de necesitar ayuda. Además de darme cuenta de la complejidad y la minuciosidad que requiere este apartado. 
    
 
-## PARTE II: Caso de estudio. Web YUZIN
+## PARTE II : Caso de estudio. Web YUZIN
    Para la realización de este apartado, he decidido seguir las pautas de la práctica de evaluación, ya que permite aplicar los conocimientos adquiridos, y mencionados en la parte anterior, de una manera clara y ordenada, sin dejar ningún aspecto por contemplar. 
 
 **a. Role Play**
@@ -112,10 +112,14 @@ Los problemas detectados en la página web son: mala navegabilidad, diseño pobr
    Lo primero que llama la atención es la barra de navegación tan mal escogida, tanto por su disposición, como por su diseño y claridad.
    Otro error grave es que el usuario no sabe en ningún momento dónde se encuentra. Es responsive, pero no mucho. Es decir, intenta adaptarse a cualquier tamaño, pero hay muchos elementos que no lo hacen correctamente, como llama la atención el que desaparezca la barra de navegación, haciendo que la navegabilidad sea nefasta.
    Después hay un formulario de búsqueda con un mensaje poco o nada intuitivo.
-   La accesibilidad ni está, ni se le espera, no hay ningún apartado dedicado a ella.
+   La accesibilidad ni está, ni se le espera, no hay ningún apartado dedicado a ella, los tamaños de las fuentes varían demasiado, aunque se adapta bien cuando se hace zoom. 
    
    **c.6 Conclusión**
    ---
    
-   En general, la página está mal diseñada. Pese a eso, no es muy difícil realizar acciones sobre ella, la página comete errores en los campos de los formularios.
-En los test realizados la nota ha sido media-baja, y en conjunto con el bajo grado de aceptación por parte de los usuarios, queda clara la idea de que esta es una página web mal diseñada, usable, pero poco accesible, que se puede mejorar y mucho.
+   En general, la página está mal diseñada. Pese a eso, no es muy difícil realizar acciones sobre ella, la página comete errores en los campos de los formularios (Aparecen en blanco y sin etiqueta).
+En los test realizados la nota ha sido media-baja, y en conjunto con el bajo grado de aceptación por parte de los usuarios, queda clara la idea de que esta es una página web mal diseñada, usable (ya que la mayoría de las tareas que se han intentado hacer, se han conseguido sin problema), pero poco accesible, que se puede mejorar y mucho.
+La página se ve bien cuando cambias colores (estos no son relevantes a la hora de usarla, en este caso), el menú, aunque para mi gusto es simple y feo a más no poder, tiene espacio suficiente entre sus ítems.
+
+
+## PARTE III : MI PROPUESTA DE MEJORA
