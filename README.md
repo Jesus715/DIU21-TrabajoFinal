@@ -96,11 +96,26 @@ Los problemas detectados en la página web son: mala navegabilidad, diseño pobr
    
    |  | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree | Mean Rating 
    | ----------- | -------- | ----------- | ----------- | ----------- | -------- | ---------
-   | Thought Website was easy to use  |   |   |   |   |   |     
-   | Would use website frequently  |   |   |   |   |   |   
-   | Found it difficult to keep track of where they were in website |   |   |   |   |   |   
-   | Thought most people would learn to use website quickly |   |   |   |   |   |   
-   | Can get information quickly |   |   |   |   |   |   
-   | Homepage’s content makes me want to explore site |   |   |   |   |   |   
-   | Site’s content would keep me coming back |   |   |   |   |   |   
-   | Website is well organized |   |   |   |   |   |   
+   | Thought Website was easy to use  |   |  1 |  1 |   |   |   2.5  
+   | Would use website frequently  |   | 2  |   |   |   | 2  
+   | Found it difficult to keep track of where they were in website |   |   |   |   |  2 |  5 
+   | Thought most people would learn to use website quickly |   |   | 2  |   |   |  3 
+   | Can get information quickly |   |   |   | 1  | 1 |  4.5 
+   | Homepage’s content makes me want to explore site |   |   | 1  |  1 |   |  3.5 
+   | Site’s content would keep me coming back |   |   | 2  |   |   |  3 
+   | Website is well organized |   | 2  |   |   |   | 2  
+   
+   
+   **c.5 Consejos**
+   ---
+   
+   Lo primero que llama la atención es la barra de navegación tan mal escogida, tanto por su disposición, como por su diseño y claridad.
+   Otro error grave es que el usuario no sabe en ningún momento dónde se encuentra. Es responsive, pero no mucho. Es decir, intenta adaptarse a cualquier tamaño, pero hay muchos elementos que no lo hacen correctamente, como llama la atención el que desaparezca la barra de navegación, haciendo que la navegabilidad sea nefasta.
+   Después hay un formulario de búsqueda con un mensaje poco o nada intuitivo.
+   La accesibilidad ni está, ni se le espera, no hay ningún apartado dedicado a ella.
+   
+   **c.6 Conclusión**
+   ---
+   
+   En general, la página está mal diseñada. Pese a eso, no es muy difícil realizar acciones sobre ella, la página comete errores en los campos de los formularios.
+En los test realizados la nota ha sido media-baja, y en conjunto con el bajo grado de aceptación por parte de los usuarios, queda clara la idea de que esta es una página web mal diseñada, usable, pero poco accesible, que se puede mejorar y mucho.
