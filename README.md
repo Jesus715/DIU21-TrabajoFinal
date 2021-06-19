@@ -110,7 +110,7 @@ Los problemas detectados en la página web son: mala navegabilidad, diseño pobr
    ---
    
    Lo primero que llama la atención es la barra de navegación tan mal escogida, tanto por su disposición, como por su diseño y claridad.
-   Otro error grave es que el usuario no sabe en ningún momento dónde se encuentra. Es responsive, pero no mucho. Es decir, intenta adaptarse a cualquier tamaño, pero hay muchos elementos que no lo hacen correctamente, como llama la atención el que desaparezca la barra de navegación, haciendo que la navegabilidad sea nefasta.
+   Otro error grave es que el usuario no sabe en ningún momento dónde se encuentra. Es responsive, pero no mucho. Es decir, intenta adaptarse a cualquier tamaño, pero hay muchos elementos que no lo hacen correctamente, como llama la atención el que desaparezca la barra de navegación, quedando un menú dropdown invisible ya que el elemento sobre el que se hace click para que aparezca es del mismo color que el fondo de la barra. Esto hace que la navegabilidad sea nefasta.
    Después hay un formulario de búsqueda con un mensaje poco o nada intuitivo.
    La accesibilidad ni está, ni se le espera, no hay ningún apartado dedicado a ella, los tamaños de las fuentes varían demasiado, aunque se adapta bien cuando se hace zoom. 
    
@@ -123,3 +123,6 @@ La página se ve bien cuando cambias colores (estos no son relevantes a la hora 
 
 
 ## PARTE III : MI PROPUESTA DE MEJORA
+Ya que la información está más o menos bien estructurada, voy a dedicarme a hacer un rediseño de la página principal, manteniendo su gama de colores, fuente, logos e imágenes, con lo que obtendría el siguiente **Moodboard** :
+
+![Moodboard](https://github.com/Jesus715/DIU21-TrabajoFinal/blob/main/Moodboard.jpg)
