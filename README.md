@@ -123,6 +123,30 @@ La página se ve bien cuando cambias colores (estos no son relevantes a la hora 
 
 
 ## PARTE III : MI PROPUESTA DE MEJORA
-Ya que la información está más o menos bien estructurada, voy a dedicarme a hacer un rediseño de la página principal, manteniendo su gama de colores, fuente, logos e imágenes, con lo que obtendría el siguiente **Moodboard** :
+Ya que la información está más o menos bien estructurada, voy a dedicarme a hacer un rediseño de la página principal, manteniendo su gama de colores, fuente, logos y la mayoría de imágenes, pero aportando algunas nuevas llamativas, con lo que obtendría el siguiente **Moodboard** :
 
 ![Moodboard](https://github.com/Jesus715/DIU21-TrabajoFinal/blob/main/Moodboard.jpg)
+
+Una vez teniendo los elementos que voy a usar. Los ***Guidelines*** que voy a utilizar son los siguientes : 
+
+* **BUSCAR.**
+Search/results: tenemos un formulario formado por varios selectores de búsqueda, y los resultados se van a apareciendo automáticamente
+
+* **NAVEGACIÓN.**
+Piramidal: tenemos una pagina de inicio (inicio) de la cual derivan otras 5 (registrarse, iniciar sesión,
+perfil, tours, y productos). De esas paginas derivan otras, haciéndose en forma de pirámide.
+
+* **INFORMACIÓN.**
+List Inlay: muestra como una lista los tours disponibles, y los que tiene contratados el cliente
+Gallery: los tour son un conjunto de imágenes con un texto asociado y una opción de compra.
+
+*ASISTENTES / WIZARDS*
+Migas de pan: Se ha usado una barra de navegación encima de la información, la cual muestra el path
+de dicha pagina. Ademas se dispone de herramientas para la navegación adicionales en el footer.
+
+*REGISTRAR*
+Sign In / Account Registration: patrón clásico de inicio de sesión y registro, formulario a completar
+
+*DATOS DE USUARIO*
+Formulario relleno: Es un formulario lleno con los datos del usuario y fácilmente modificable. Para
+completar la acción de modificación debes darle a guardar. 
