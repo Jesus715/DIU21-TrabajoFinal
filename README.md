@@ -47,7 +47,7 @@ A partir de esto, obtengo la tabla de las necesidades obtenidas en las tiradas :
    He usado el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño de la web. Para ello uso la hoja de cálculo, y así calcular los resultados, sigiendo las pautas para usar la escala SUS e interpretarlos.
 
 A continuación, adjunto el pdf con el cuestionario y el resultado obtenido :
-[Cuestionario SUS](https://github.com/Jesus715/DIU21-TrabajoFinal/Cuestionario_SUS.pdf)
+[Cuestionario SUS](https://github.com/Jesus715/DIU21-TrabajoFinal/blob/main/Cuestionario_SUS.pdf)
 
 Se puede ver claramente que el nuevo diseño es bastante regular, habiendo obtenido una valoración de **MARGINAL**, según el cuestionario de ambos usuarios.
 
