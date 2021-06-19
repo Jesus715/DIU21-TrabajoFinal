@@ -89,3 +89,18 @@ Los problemas detectados en la página web son: mala navegabilidad, diseño pobr
    | #USER2  | OK  | OK  | - | -
    | Success | 2 | 2 | 1 | 0
    | Completion Rates | 100% | 100% | 50% | 0%
+   
+   
+   **c.4 Cuestionario después de realizar las tareas para USER1 y USER2**
+   ---
+   
+   |  | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree | Mean Rating 
+   | ----------- | -------- | ----------- | ----------- | ----------- | -------- | ---------
+   | Thought Website was easy to use  |   |   |   |   |   |     
+   | Would use website frequently  |   |   |   |   |   |   
+   | Found it difficult to keep track of where they were in website |   |   |   |   |   |   
+   | Thought most people would learn to use website quickly |   |   |   |   |   |   
+   | Can get information quickly |   |   |   |   |   |   
+   | Homepage’s content makes me want to explore site |   |   |   |   |   |   
+   | Site’s content would keep me coming back |   |   |   |   |   |   
+   | Website is well organized |   |   |   |   |   |   
