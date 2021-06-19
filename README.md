@@ -112,6 +112,7 @@ Los problemas detectados en la página web son: mala navegabilidad, diseño pobr
    Lo primero que llama la atención es la barra de navegación tan mal escogida, tanto por su disposición, como por su diseño y claridad.
    Otro error grave es que el usuario no sabe en ningún momento dónde se encuentra. Es responsive, pero no mucho. Es decir, intenta adaptarse a cualquier tamaño, pero hay muchos elementos que no lo hacen correctamente, como llama la atención el que desaparezca la barra de navegación, quedando un menú dropdown invisible ya que el elemento sobre el que se hace click para que aparezca es del mismo color que el fondo de la barra. Esto hace que la navegabilidad sea nefasta.
    Después hay un formulario de búsqueda con un mensaje poco o nada intuitivo.
+   Debería de tener la opción de seleccionar más idiomas, ya que se trata de un sitio de cultura, y lo que busca es fomentar el turismo.
    La accesibilidad ni está, ni se le espera, no hay ningún apartado dedicado a ella, los tamaños de las fuentes varían demasiado, aunque se adapta bien cuando se hace zoom. 
    
    **c.6 Conclusión**
@@ -130,23 +131,24 @@ Ya que la información está más o menos bien estructurada, voy a dedicarme a h
 Una vez teniendo los elementos que voy a usar. Los ***Guidelines*** que voy a utilizar son los siguientes : 
 
 * **BUSCAR.**
-Search/results: tenemos un formulario formado por varios selectores de búsqueda, y los resultados se van a apareciendo automáticamente
+Search/results: tenemos un formulario formado por varios selectores de búsqueda, y los resultados van a apareciendo automáticamente.
 
 * **NAVEGACIÓN.**
-Piramidal: tenemos una pagina de inicio (inicio) de la cual derivan otras 5 (registrarse, iniciar sesión,
-perfil, tours, y productos). De esas paginas derivan otras, haciéndose en forma de pirámide.
+Piramidal: tenemos una pagina de inicio (inicio) de la cual derivan otras 5, y de esas páginas derivan otras, haciéndose en forma de pirámide.
 
 * **INFORMACIÓN.**
-List Inlay: muestra como una lista los tours disponibles, y los que tiene contratados el cliente
-Gallery: los tour son un conjunto de imágenes con un texto asociado y una opción de compra.
+List Inlay: muestra como una lista los eventos disponibles, así como los lugares a visitar.
+Gallery: los eventos y espacios culturales son un conjunto de imágenes con un texto asociado y una opción de compra.
 
-*ASISTENTES / WIZARDS*
+* **ASISTENTES / WIZARDS.**
 Migas de pan: Se ha usado una barra de navegación encima de la información, la cual muestra el path
 de dicha pagina. Ademas se dispone de herramientas para la navegación adicionales en el footer.
 
-*REGISTRAR*
-Sign In / Account Registration: patrón clásico de inicio de sesión y registro, formulario a completar
+* **REGISTRAR.**
+Sign In / Account Registration: patrón clásico de inicio de sesión y registro, formulario a completar.
 
-*DATOS DE USUARIO*
-Formulario relleno: Es un formulario lleno con los datos del usuario y fácilmente modificable. Para
-completar la acción de modificación debes darle a guardar. 
+* **DATOS DE USUARIO.**
+No puedo acceder a esa información, ya que no soy socio.
+
+Para finalizar, se muestra el **Mockup** resultante de aplicar estos patrones de diseño, junto con los elementos deul *Moodboard* ya mencionados :
+![Mockup](https://github.com/Jesus715/DIU21-TrabajoFinal/blob/main/Mockup.jpg)
