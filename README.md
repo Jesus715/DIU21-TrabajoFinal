@@ -23,7 +23,8 @@ mockup).
 ## PARTE II: Caso de estudio. Web YUZIN
    Para la realización de este apartado, he decidido seguir las pautas de la práctica de evaluación, ya que permite aplicar los conocimientos adquiridos, y mencionados en la parte anterior, de una manera clara y ordenada, sin dejar ningún aspecto por contemplar. 
 
-**1. Role Play**
+![Role Play] **a. Role Play**
+---
 
    He usado esta técnica para la selección de necesidades de 2 usuarios, obteniendo la siguiente tabla :
    | Tiradas/Dados | Tipos     | Actividad   |  Emociones   
@@ -42,7 +43,8 @@ A partir de esto, obtengo la tabla de las necesidades obtenidas en las tiradas :
 | #USER2  | M / 33   | Policía  | Ninguna       | Extrovertido       | Web   
 
 
-**2. Cuestionario SUS**
+![Cuestionario SUS] **b. Cuestionario SUS**
+---
    
    He usado el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño de la web. Para ello uso la hoja de cálculo, y así calcular los resultados, sigiendo las pautas para usar la escala SUS e interpretarlos.
 
@@ -52,4 +54,5 @@ A continuación, adjunto el pdf con el cuestionario y el resultado obtenido :
 Se puede ver claramente que el nuevo diseño es bastante regular, habiendo obtenido una valoración de **MARGINAL**, según el cuestionario de ambos usuarios.
 
 
-**3. Usability Report**
+![Usability Report] **c. Usability Report**
+---
