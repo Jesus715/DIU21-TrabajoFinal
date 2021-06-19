@@ -23,7 +23,7 @@ mockup).
 ## PARTE II: Caso de estudio. Web YUZIN
    Para la realización de este apartado, he decidido seguir las pautas de la práctica de evaluación, ya que permite aplicar los conocimientos adquiridos, y mencionados en la parte anterior, de una manera clara y ordenada, sin dejar ningún aspecto por contemplar. 
 
-![Role Play] **a. Role Play**
+**a. Role Play**
 ---
 
    He usado esta técnica para la selección de necesidades de 2 usuarios, obteniendo la siguiente tabla :
@@ -43,7 +43,7 @@ A partir de esto, obtengo la tabla de las necesidades obtenidas en las tiradas :
 | #USER2  | M / 33   | Policía  | Ninguna       | Extrovertido       | Web   
 
 
-![Cuestionario SUS] **b. Cuestionario SUS**
+**b. Cuestionario SUS**
 ---
    
    He usado el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño de la web. Para ello uso la hoja de cálculo, y así calcular los resultados, sigiendo las pautas para usar la escala SUS e interpretarlos.
@@ -51,8 +51,27 @@ A partir de esto, obtengo la tabla de las necesidades obtenidas en las tiradas :
 A continuación, adjunto el pdf con el cuestionario y el resultado obtenido :
 [Cuestionario SUS](https://github.com/Jesus715/DIU21-TrabajoFinal/blob/main/Cuestionario_SUS.pdf)
 
-Se puede ver claramente que el nuevo diseño es bastante regular, habiendo obtenido una valoración de **MARGINAL**, según el cuestionario de ambos usuarios.
+Tras la realización, el website ha obtenido una valoración de **MARGINAL**, según el cuestionario de ambos usuarios.
 
 
-![Usability Report] **c. Usability Report**
+**c. INFORME DE USABILIDAD**
 ---
+
+   **c.1 Descripción del Website**
+   ---
+      
+   Yuzin ha sido desde hace muchos años una revista (en formato físico) que promociona las
+   actividades culturales de la ciudad que se editaba mes a mes. Se ha hecho un rediseño y orientación de la web en la que la revista digital se queda en
+   segundo plano.
+   
+   **c.2 Resumen ejecutivo**
+   ---
+   
+   El objeto de este test de usabilidad es la página web Yuzin, desarrollado por Yuzin Club Cultural. Para descubrir el grado de usabilidad de dicha página, se ha realizado un test a los 2 usuarios seleccionados en el **apartado a** y se les ha pedido que realicen algunas actividades permitidas por la página, y sin
+ningún tipo de ayuda. Además, se les ha pasado un cuestionario el cual han rellenado en base a sus experiencias vividas en el proceso (el Cuestionario SUS del **apartado b**).
+Este documento contiene las respuestas de dichos voluntarios, colocadas en forma de tabla para su mejor comprensión y análisis.
+Los problemas detectados en la página web son: mala navegabilidad, diseño pobre, y ligera inconsistencia.
+
+   **c.3 Evaluación de tareas /escenarios**
+   ---
+   
