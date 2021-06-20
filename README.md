@@ -150,6 +150,6 @@ Sign In / Account Registration: patrón clásico de inicio de sesión y registro
 * **DATOS DE USUARIO.**
 No puedo acceder a esa información, ya que no soy socio.
 
-Para finalizar, se muestra el **Mockup** resultante de aplicar estos patrones de diseño, junto con los elementos deul *Moodboard* ya mencionados :
+Para finalizar, se muestra el **Mockup** resultante de aplicar estos patrones de diseño, junto con los elementos del *Moodboard* ya mencionados :
 
 ![Mockup](https://github.com/Jesus715/DIU21-TrabajoFinal/blob/main/Mockup.jpg)
